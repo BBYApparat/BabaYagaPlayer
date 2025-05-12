@@ -2,8 +2,6 @@
 - 👀 I’m interested in coding, designing, and building cool stuff
 - 🌱 I’m currently learning PHP, TypeScript, and more
 - 📫 Reach me on Discord: **gigaplayer_1**
-- 😄 Pronouns: he/him
-
 ---
 
 ### 🧠 Tech Stack & Skills
